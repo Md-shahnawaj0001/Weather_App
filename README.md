@@ -17,7 +17,7 @@ This is a simple weather application that allows users to search for the current
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Md-shahnawaj0001/Weather_App.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -51,6 +51,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any issues or suggestions, feel free to reach out:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: https://github.com/Md-shahnawaj0001
+- Email:mbimdshahnawaj0786@gmail.com
 
